@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Megaputer", "Megaputer\Megaputer.vcxproj", "{A0DEF2DF-9D4E-4533-ADFB-08743FA646D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0DEF2DF-9D4E-4533-ADFB-08743FA646D6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A0DEF2DF-9D4E-4533-ADFB-08743FA646D6}.Debug|Win32.Build.0 = Debug|Win32
+		{A0DEF2DF-9D4E-4533-ADFB-08743FA646D6}.Release|Win32.ActiveCfg = Release|Win32
+		{A0DEF2DF-9D4E-4533-ADFB-08743FA646D6}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
